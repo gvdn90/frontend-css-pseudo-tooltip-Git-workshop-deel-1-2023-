@@ -6,7 +6,7 @@
 
 
 body {
-    color: white;
+    color: hotpink;
 }
 
 
@@ -21,7 +21,7 @@ body {
 }
 
 body {
-    background-color: hsl(212, 36%, 90%);
+    background-color: hotpink;
     color: hsl(210, 93%, 29%);
     text-align: center;
     font-family: 'Roboto Slab', Arial, serif;
